@@ -16,4 +16,6 @@ public class BanHangNoiThatApplication {
     public BCryptPasswordEncoder bCryptPasswordEncoder(){
         return new BCryptPasswordEncoder();
     }
+
+    // cuong da sua o day
 }
